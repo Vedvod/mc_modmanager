@@ -77,6 +77,7 @@ Content/Actual changes (Requires client-side afaik)
             https://modrinth.com/mod/equipment-compare
             https://modrinth.com/mod/wthit
             https://modrinth.com/mod/entityculling
+            https://modrinth.com/mod/mouse-wheelie
         Items/misc
             https://www.curseforge.com/minecraft/mc-mods/natures-compass
             https://www.curseforge.com/minecraft/mc-mods/explorers-compass
@@ -95,6 +96,7 @@ Content/Actual changes (Requires client-side afaik)
             https://modrinth.com/mod/visuality
             https://modrinth.com/mod/lambdabettergrass
             https://modrinth.com/mod/continuity
+            https://modrinth.com/mod/inventory-profiles-next
         Mobs
             https://www.curseforge.com/minecraft/mc-mods/goodall
         Progression
@@ -129,7 +131,6 @@ Content/Actual changes (Requires client-side afaik)
             https://modrinth.com/mod/keybinds
             https://modrinth.com/mod/amecs
             https://modrinth.com/mod/too-many-binds
-          # https://www.curseforge.com/minecraft/mc-mods/controlling
         World/Biomes
             https://www.curseforge.com/minecraft/mc-mods/terralith
             https://modrinth.com/mod/betternether
