@@ -19,7 +19,6 @@ Client Only
     https://modrinth.com/mod/iris
     https://modrinth.com/mod/borderless-mining
     https://modrinth.com/mod/better-ping-display-fabric
-    https://www.curseforge.com/minecraft/mc-mods/controlling
     https://modrinth.com/mod/essential
     https://modrinth.com/mod/indium
     https://modrinth.com/mod/lazydfu
@@ -30,7 +29,6 @@ Client Only
     https://modrinth.com/mod/shulkerboxtooltip
     https://modrinth.com/mod/sodium-extra
     https://modrinth.com/mod/reeses-sodium-options
-    https://modrinth.com/mod/fastload
     https://modrinth.com/mod/krypton
 Content/Actual changes (Requires client-side afaik)
         Resource Packs
@@ -127,6 +125,11 @@ Content/Actual changes (Requires client-side afaik)
             https://modrinth.com/mod/repurposed-structures-fabric
             https://modrinth.com/mod/immersive-structures
             https://modrinth.com/mod/architects-palette-fabric
+        Keybinds
+            https://modrinth.com/mod/keybinds
+            https://modrinth.com/mod/amecs
+            https://modrinth.com/mod/too-many-binds
+          # https://www.curseforge.com/minecraft/mc-mods/controlling
         World/Biomes
             https://www.curseforge.com/minecraft/mc-mods/terralith
             https://modrinth.com/mod/betternether
