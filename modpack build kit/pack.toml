@@ -1,0 +1,16 @@
+name = "SMP With the Bois client side"
+author = "Vedvod"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1efdb85cdb6c0d1090b9fa8bd176547b869f78e8eff53e106209787f375506f"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
