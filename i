@@ -1,5 +1,6 @@
 Client Only
     https://modrinth.com/mod/cloth-config
+    https://www.curseforge.com/minecraft/mc-mods/cloth-config
     https://modrinth.com/mod/fabric-api
     https://www.curseforge.com/minecraft/mc-mods/fabric-api
     https://modrinth.com/mod/modmenu
@@ -35,7 +36,7 @@ Client Only
     https://modrinth.com/mod/krypton
 Content/Actual changes (Requires client-side afaik)
         Resource Packs
-            https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips
+            https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips
             https://www.curseforge.com/minecraft/texture-packs/stoneborn-dwarven-fantasy-inspired-ui-overhaul
         Libs
             https://modrinth.com/mod/forge-config-api-port
@@ -50,10 +51,11 @@ Content/Actual changes (Requires client-side afaik)
             https://modrinth.com/mod/trinkets
             https://www.curseforge.com/minecraft/mc-mods/malilib
             https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric
-            https://modrinth.com/mod/geckolib
             https://modrinth.com/mod/dawn
             https://modrinth.com/mod/prism-lib 
             https://modrinth.com/mod/brrp
+            https://www.curseforge.com/minecraft/mc-mods/reborncore
+            https://www.curseforge.com/minecraft/mc-mods/geckolib
         Player Interactions
             https://modrinth.com/mod/presence-footsteps
             https://modrinth.com/mod/crawl
@@ -85,19 +87,20 @@ Content/Actual changes (Requires client-side afaik)
             https://modrinth.com/mod/voidtotem
             https://modrinth.com/mod/legendary-tooltips
             https://modrinth.com/mod/advancement-plaques
-            https://modrinth.com/resourcepack/embellished-stone-advancements-plaques
+            https://www.curseforge.com/minecraft/texture-packs/embellished-stone-advancement-plaques
             https://modrinth.com/mod/fallingtree
             https://modrinth.com/mod/fallingleaves
             https://modrinth.com/mod/visuality
             https://modrinth.com/mod/lambdabettergrass
             https://modrinth.com/mod/continuity
         Mobs
+            https://www.curseforge.com/minecraft/mc-mods/goodall
         Progression
             https://www.curseforge.com/minecraft/mc-mods/techreborn
             https://www.curseforge.com/minecraft/mc-mods/ultris-boss-expansion
             https://modrinth.com/mod/advanced-netherite
             https://modrinth.com/mod/create
-            https://modrinth.com/mod/hydration
+            https://www.curseforge.com/minecraft/mc-mods/dehydration
             https://modrinth.com/mod/eldritch-mobs
             https://modrinth.com/mod/friends-and-foes
             https://www.curseforge.com/minecraft/mc-mods/archon
@@ -115,7 +118,7 @@ Content/Actual changes (Requires client-side afaik)
             https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric
             https://modrinth.com/mod/bosses-of-mass-destruction
             https://modrinth.com/mod/stoneholm
-            https://modrinth.com/mod/moogs-voyager-structures/versions
+            https://modrinth.com/mod/moogs-voyager-structures
             https://modrinth.com/mod/repurposed-structures-fabric
             https://modrinth.com/mod/immersive-structures
             https://modrinth.com/mod/architects-palette-fabric
