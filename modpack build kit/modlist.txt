@@ -15,6 +15,7 @@ Client Only
     https://modrinth.com/mod/deathlog
     https://modrinth.com/mod/enchantment-lore 
     https://modrinth.com/mod/lambdynamiclights
+    https://modrinth.com/mod/dynamic-fps
     https://modrinth.com/mod/sodium
     https://modrinth.com/mod/starlight
     https://modrinth.com/mod/iris
@@ -32,10 +33,16 @@ Client Only
     https://modrinth.com/mod/reeses-sodium-options
     https://modrinth.com/mod/krypton
     https://modrinth.com/mod/fastload
+    https://modrinth.com/mod/dashloader
+    https://modrinth.com/mod/modmanager
+    https://modrinth.com/mod/bobby
 Content/Actual changes (Requires client-side afaik)
         Resource Packs
             https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips
             https://www.curseforge.com/minecraft/texture-packs/stoneborn-dwarven-fantasy-inspired-ui-overhaul
+            https://www.curseforge.com/minecraft/customization/complementary-shaders
+            https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders
+            https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default
         Libs
             https://modrinth.com/mod/forge-config-api-port
             https://www.curseforge.com/minecraft/mc-mods/bookshelf
@@ -58,6 +65,7 @@ Content/Actual changes (Requires client-side afaik)
             https://modrinth.com/mod/geckolib
             https://modrinth.com/mod/data-attributes
             https://modrinth.com/mod/magiclib
+            https://modrinth.com/mod/createplus
         Player Interactions
             https://modrinth.com/mod/presence-footsteps
             https://modrinth.com/mod/crawl
