@@ -30,6 +30,7 @@ Client Only
     https://modrinth.com/mod/sodium-extra
     https://modrinth.com/mod/reeses-sodium-options
     https://modrinth.com/mod/krypton
+    https://modrinth.com/mod/fastload
 Content/Actual changes (Requires client-side afaik)
         Resource Packs
             https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips
